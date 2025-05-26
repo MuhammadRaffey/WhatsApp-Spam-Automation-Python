@@ -28,7 +28,7 @@ This tool is for educational purposes only. Please use responsibly and respect o
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/WhatsApp-Spam-Automation-Python.git
+git clone https://github.com/MuhammadRaffey/WhatsApp-Spam-Automation-Python.git
 cd WhatsApp-Spam-Automation-Python
 ```
 
